@@ -9,3 +9,5 @@ var getUserRepos = function(user) {
       });
     });
   };
+
+  getUserRepos("jlentz17");
